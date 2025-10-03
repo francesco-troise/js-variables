@@ -9,6 +9,14 @@ console.log(nome)
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+let number = 50
+console.log(number)
+
+let text = 'prova testo di variabile'
+console.log(text)
+
+let bool = true
+console.log(bool)
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
